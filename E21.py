@@ -58,13 +58,13 @@ def convertir():
 
         # Monedas
         elif Conversion == "pesos a dolares":
-            r = x / 1450
+            r = x / 1520
 
         elif Conversion == "pesos a reales":
-            r = x / 270
+            r = x / 304
 
         elif Conversion == "pesos a euros":
-            r = x / 1700
+            r = x / 1709
 
         # Informática
         elif Conversion == "B a KB":
